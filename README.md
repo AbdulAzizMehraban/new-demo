@@ -1,2 +1,2 @@
 # new-demo
-This is the a new demo class
+This is a simple demo for git and github.
